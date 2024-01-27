@@ -1,6 +1,6 @@
 > [!IMPORTANT]  
 > Forked from semi abandoned repo, work is in progress to update including usin MSAL.
-> I have no affliation or associated with Microsoft or any of original authors. All
+> I have no affliation or associated with Microsoft or any of original authors. All work, trademarks, copyrights, belong to owners. Used within bounds of MIT License.
 
 FastAPI authentication with Microsoft Identity
 ==========================
