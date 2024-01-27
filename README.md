@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> Forked from semi abandoned repo, work is in progress to update including usin MSAL.
+> I have no affliation or associated with Microsoft or any of original authors. All
+
 FastAPI authentication with Microsoft Identity
 ==========================
 
@@ -173,7 +177,8 @@ If you encounter bugs or have suggestions, please open an issue.
 
 Contributing
 -------------
-This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.microsoft.com.
+> [!IMPORTANT]  
+> Please feel free to contribute. Readme is outdated.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments.
 
